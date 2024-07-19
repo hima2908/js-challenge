@@ -10,7 +10,8 @@ console.log(arr);
 
 const arr1 = [1, 2, 3, 4, 5]
 console.log(arr1[0]);
-console.log(arr1[4]);
+// console.log(arr1[4]);
+console.log("last elements",arr1.length); // which is last elements of array we know by the lenght
 
 // Activity 2: Array method (basic)
 // task 3: use push() to add a new number to the end of the array and log updated array.
@@ -105,7 +106,6 @@ console.log(twoDiarr);
 console.log(twoDiarr[0]); // access the 0th index of array of matrix 
 console.log(twoDiarr[1]);  // access the 1st index of array of matrix 
 console.log(twoDiarr[1][3]); // access the 1st index of array of matrix  4rd element
-
 
 
 
